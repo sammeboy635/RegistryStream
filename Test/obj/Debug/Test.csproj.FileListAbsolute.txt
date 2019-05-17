@@ -1,0 +1,9 @@
+c:\users\dylan\source\repos\Test\Test\bin\Debug\Test.exe.config
+c:\users\dylan\source\repos\Test\Test\bin\Debug\Test.exe
+c:\users\dylan\source\repos\Test\Test\bin\Debug\Test.pdb
+c:\users\dylan\source\repos\Test\Test\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+c:\users\dylan\source\repos\Test\Test\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+c:\users\dylan\source\repos\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\dylan\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+c:\users\dylan\source\repos\Test\Test\obj\Debug\Test.exe
+c:\users\dylan\source\repos\Test\Test\obj\Debug\Test.pdb
